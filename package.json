@@ -17,7 +17,7 @@
     "eslint-plugin-mocha": "^4.11.0",
     "mocha": "^3.4.2",
     "moment": "^2.18.1",
-    "mysql": "^2.13.0"
+    "mysql": "^2.16.0"
   },
   "dependencies": {
     "async": "^2.5.0"
